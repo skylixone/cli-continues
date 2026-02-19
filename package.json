@@ -1,6 +1,6 @@
 {
   "name": "continues",
-  "version": "2.6.5",
+  "version": "2.6.6",
   "description": "Never lose context. Resume any AI coding session across Claude, Copilot, Gemini, Codex & OpenCode.",
   "main": "dist/cli.js",
   "bin": {
